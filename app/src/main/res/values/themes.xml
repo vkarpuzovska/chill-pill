@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Owl" parent="@style/Theme.Material.DayNight.NoActionBar">
+        <item name="android:colorPrimary">#8B54BA</item>
+        <item name="android:colorAccent">#4B1958</item>
+        <item name="android:statusBarColor">@color/immersive_sys_ui</item>
+        <item name="android:navigationBarColor">@color/nav_bar</item>
+    </style>
+
+    <style name="Theme.Material.DayNight.NoActionBar" parent="@android:style/Theme.Material.Light.NoActionBar" />
+
+</resources>
